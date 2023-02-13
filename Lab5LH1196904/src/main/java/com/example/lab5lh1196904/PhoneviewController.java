@@ -14,7 +14,7 @@ public class PhoneViewController {
 
     @FXML
     void initialize() {
-
+        Phone iPhone = new Phone("iphone14pro", "Lab5LH1196904/src/main/resources/com/example/lab5lh1196904/Images/iPhone14Pro-SpaceBlack-pos1.png");
     }
 
 }
