@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eab5573-a80c-48f2-a4a2-a16626645cc0" name="Changes" comment="" />
+    <list default="true" id="0eab5573-a80c-48f2-a4a2-a16626645cc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/PhoneViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/PhoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/PhoneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5LH1196904/src/main/java/com/example/lab5lh1196904/PhoneviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5LH1196904/src/main/resources/com/example/lab5lh1196904/Phone-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5LH1196904/src/main/resources/com/example/lab5lh1196904/Phone-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e265f0ec-843e-4588-add8-8a9c8eb9e7f5" />
+        <option name="url" value="https://github.com/IDWilks/Lab5LH1196904.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,6 +50,14 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="openjdk-19" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2LfjquGjYRG1dbBVTVCRkiOkLpp" />
   <component name="ProjectViewState">
@@ -39,10 +68,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mikew/OneDrive/Documents/GitHub/Lab5LH1196904&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.lab5lh1196904" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="PhoneApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.lab5lh1196904.PhoneApplication" />
@@ -71,7 +114,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676269224969</updated>
+      <workItem from="1676321640971" duration="293000" />
+      <workItem from="1676321957860" duration="435000" />
+      <workItem from="1676402904723" duration="514000" />
+      <workItem from="1676403544572" duration="1515000" />
+      <workItem from="1676405076514" duration="1228000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
